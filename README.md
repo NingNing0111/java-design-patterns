@@ -1,6 +1,8 @@
 &emsp;本科在读大三，目前正在学习设计模式，仓库正在随课程进度更新。文章会最先在我的个人博客进行更新，我的个人博客：[https://pgthinker.me](https://pgthinker.me)。
 
 
+![](./books/design%20patterns.png)
+
 ## 已完成
 
 &emsp;学习过程中参考《图解设计模式》、菜鸟教程、《设计模式之禅》等，相关书籍：[点击这里](https://github.com/NingNing0111/java-design-patterns/tree/master/books)
@@ -32,6 +34,8 @@
 
 - [桥梁(Bridge)模式](https://pgthinker.me/2023/10/15/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e6%a1%a5%e6%8e%a5bridge%e6%a8%a1%e5%bc%8f/)
 - [适配器(Adapter)模式](https://pgthinker.me/2023/10/13/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e9%80%82%e9%85%8d%e5%99%a8adapter%e6%a8%a1%e5%bc%8f/)
+- [合成(Composite)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e7%bb%84%e5%90%88composite%e6%a8%a1%e5%bc%8f/)
+- [装饰器(Decorator)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a3%85%e9%a5%b0%e5%99%a8decorator%e6%a8%a1%e5%bc%8f/)
 
 ### 行为型模式
 
