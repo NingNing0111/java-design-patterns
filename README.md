@@ -1,5 +1,6 @@
 &emsp;本科在读大三，目前正在学习设计模式，仓库正在随课程进度更新。文章会最先在我的个人博客进行更新，我的个人博客：[https://pgthinker.me](https://pgthinker.me)。
 
+&emsp;23种设计模式完整系列[点击这里](https://pgthinker.me/category/%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f/)阅读.
 
 ![](./books/design%20patterns.png)
 
@@ -22,6 +23,8 @@
 - **迪米特法则**（Law of Demeter，LoD）： 一个对象应该对其他对象有尽可能少的了解。一个对象应该只与它直接的朋友进行交互，而不与朋友的朋友进行交互。
 
 
+
+
 ### 创建型模式
 
 - [工厂方法(Factory Method)模式](https://pgthinker.me/2023/10/13/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%b7%a5%e5%8e%82%e6%96%b9%e6%b3%95factory-method%e6%a8%a1%e5%bc%8f/)
@@ -36,9 +39,14 @@
 - [适配器(Adapter)模式](https://pgthinker.me/2023/10/13/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e9%80%82%e9%85%8d%e5%99%a8adapter%e6%a8%a1%e5%bc%8f/)
 - [合成(Composite)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e7%bb%84%e5%90%88composite%e6%a8%a1%e5%bc%8f/)
 - [装饰器(Decorator)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a3%85%e9%a5%b0%e5%99%a8decorator%e6%a8%a1%e5%bc%8f/)
+- [外观(Facade)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%a4%96%e8%a7%82%ef%bc%88facade%ef%bc%89%e6%a8%a1%e5%bc%8f/)
+- 
 
 ### 行为型模式
 
 - [模板方法(Template Method)模式](https://pgthinker.me/2023/10/13/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e6%a8%a1%e6%9d%bf%e6%96%b9%e6%b3%95template-method%e6%a8%a1%e5%bc%8f/)
 - [迭代器(Iterator)模式](https://pgthinker.me/2023/10/13/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%bf%ad%e4%bb%a3%e5%99%a8iterator%e6%a8%a1%e5%bc%8f/)
 - [策略(Strategy)模式](https://pgthinker.me/2023/10/15/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e7%ad%96%e7%95%a5strategy%e6%a8%a1%e5%bc%8f/)
+- [中介者(Mediator)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e4%b8%ad%e4%bb%8b%e8%80%85mediator%e6%a8%a1%e5%bc%8f/)
+- [责任链(Chain Of Responsibility)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%b4%a3%e4%bb%bb%e9%93%bechain-of-responsibility%e6%a8%a1%e5%bc%8f/)
+- [访问者(Visitor)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%ae%bf%e9%97%ae%e8%80%85visitor%e6%a8%a1%e5%bc%8f/)
