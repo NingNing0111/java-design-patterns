@@ -40,7 +40,10 @@
 - [合成(Composite)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e7%bb%84%e5%90%88composite%e6%a8%a1%e5%bc%8f/)
 - [装饰器(Decorator)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a3%85%e9%a5%b0%e5%99%a8decorator%e6%a8%a1%e5%bc%8f/)
 - [外观(Facade)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%a4%96%e8%a7%82%ef%bc%88facade%ef%bc%89%e6%a8%a1%e5%bc%8f/)
-- 
+- [观察者(Observer)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a7%82%e5%af%9f%e8%80%85observer%e6%a8%a1%e5%bc%8f/)
+- [备忘录(Memento)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%a4%87%e5%bf%98%e5%bd%95memento%e6%a8%a1%e5%bc%8f/)
+- [状态(State)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e7%8a%b6%e6%80%81state%e6%a8%a1%e5%bc%8f/)
+
 
 ### 行为型模式
 
@@ -50,3 +53,4 @@
 - [中介者(Mediator)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e4%b8%ad%e4%bb%8b%e8%80%85mediator%e6%a8%a1%e5%bc%8f/)
 - [责任链(Chain Of Responsibility)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%b4%a3%e4%bb%bb%e9%93%bechain-of-responsibility%e6%a8%a1%e5%bc%8f/)
 - [访问者(Visitor)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%ae%bf%e9%97%ae%e8%80%85visitor%e6%a8%a1%e5%bc%8f/)
+- [享元(Flyweight)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e4%ba%ab%e5%85%83flyweight%e6%a8%a1%e5%bc%8f/)
