@@ -43,7 +43,7 @@
 - [观察者(Observer)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a7%82%e5%af%9f%e8%80%85observer%e6%a8%a1%e5%bc%8f/)
 - [备忘录(Memento)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%a4%87%e5%bf%98%e5%bd%95memento%e6%a8%a1%e5%bc%8f/)
 - [状态(State)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e7%8a%b6%e6%80%81state%e6%a8%a1%e5%bc%8f/)
-
+- [代理(Proxy)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e4%bb%a3%e7%90%86proxy%e6%a8%a1%e5%bc%8f/)
 
 ### 行为型模式
 
@@ -54,3 +54,5 @@
 - [责任链(Chain Of Responsibility)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%b4%a3%e4%bb%bb%e9%93%bechain-of-responsibility%e6%a8%a1%e5%bc%8f/)
 - [访问者(Visitor)模式](https://pgthinker.me/2023/10/17/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%ae%bf%e9%97%ae%e8%80%85visitor%e6%a8%a1%e5%bc%8f/)
 - [享元(Flyweight)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e4%ba%ab%e5%85%83flyweight%e6%a8%a1%e5%bc%8f/)
+- [命令(Command)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%91%bd%e4%bb%a4command%e6%a8%a1%e5%bc%8f/)
+- [解释器(Interpreter)模式](https://pgthinker.me/2023/10/22/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e8%a7%a3%e9%87%8a%e5%99%a8interpreter%e6%a8%a1%e5%bc%8f/)
