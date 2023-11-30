@@ -26,7 +26,6 @@
 
 &emsp;具体可看我的博客文章：[SOLID-面向对象设计的基本原则](https://pgthinker.me/2023/11/30/oo/)
 
-
 ### 创建型模式
 
 - [工厂方法(Factory Method)模式](https://pgthinker.me/2023/10/13/23%e7%a7%8d%e5%b8%b8%e7%94%a8%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f-%e5%b7%a5%e5%8e%82%e6%96%b9%e6%b3%95factory-method%e6%a8%a1%e5%bc%8f/)
